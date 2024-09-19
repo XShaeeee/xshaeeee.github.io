@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "吴思弘 Sihong Wu"
+title                    : "Sihong Wu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "tessaaawu/tessaaawu.github.io/"
 author:
   # Biographic information
   avatar           : "SquarePhoto.png"
-  name             : "Sihong Wu"
+  name             : "吴思弘 Sihong Wu &#127940; &#127995; &#8205; &#9792; &#65039;"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Reasearch Fellow"
   location         : "Houston, TX"

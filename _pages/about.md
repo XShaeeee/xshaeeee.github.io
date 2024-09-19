@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font face="Comic Sans MS">
+
 <p align = "justify"> 
-I am a postdoctoral research fellow with the Department of Earth and Atmospheric Sciences and the Department of Electrical and Computer Engineering at University of Houston. I obtained my PhD in Geophysics in 2021 from <a href="[https://www.runoob.com/](https://english.pku.edu.cn)" target="_blank" rel="noopener noreferrer">Peking University</a>, and BS in Geophysics in 2016 from [University of Science and Technology in China](https://en.ustc.edu.cn/), China.
+I am a postdoctoral research fellow with the Department of Earth and Atmospheric Sciences and the Department of Electrical and Computer Engineering at University of Houston. I obtained my PhD in Geophysics in 2021 from <a href="https://english.pku.edu.cn" target="_blank" rel="noopener noreferrer">Peking University</a>, and BS in Geophysics in 2016 from [University of Science and Technology in China](https://en.ustc.edu.cn/), China.
 </p> 
 <p align = "justify"> 
 I am currently working with [Dr. Jiajia Sun](https://sites.google.com/view/jiajiasun) and [Dr. Jiefu Chen](http://www2.egr.uh.edu/~jchen82/) on quantifying the uncertainties of geophysical inverse problems, exploring natural hydrogen resources, and investigating the formation mechanisms of oceanic plateaus using marine magnetic data.
@@ -26,4 +26,4 @@ Before joining UH, I completed a two-year postdoctoral research position supervi
 <li>Near-surface hydrological investigation and resource exploration</li>
 </ul>
 
-</font>
+

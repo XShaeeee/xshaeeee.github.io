@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 <p align = "justify"> 
-I am a postdoctoral research fellow with the Department of Earth and Atmospheric Sciences and the Department of Electrical and Computer Engineering at University of Houston. I obtained my PhD in Geophysics in 2021 from <a href="https://english.pku.edu.cn" target="_blank" rel="noopener noreferrer">Peking University</a>, and BS in Geophysics in 2016 from <a href="[https://english.pku.edu.cn](https://en.ustc.edu.cn/)" target="_blank" rel="noopener noreferrer">University of Science and Technology in China</a>, China.
+I am a postdoctoral research fellow with the Department of Earth and Atmospheric Sciences and the Department of Electrical and Computer Engineering at University of Houston. I obtained my PhD in Geophysics in 2021 from <a href="https://english.pku.edu.cn" target="_blank" rel="noopener noreferrer">Peking University</a>, and BS in Geophysics in 2016 from <a href="https://en.ustc.edu.cn/" target="_blank" rel="noopener noreferrer">University of Science and Technology in China</a>, China.
 </p> 
 <p align = "justify"> 
-I am currently working with [Dr. Jiajia Sun](https://sites.google.com/view/jiajiasun) and [Dr. Jiefu Chen](http://www2.egr.uh.edu/~jchen82/) on quantifying the uncertainties of geophysical inverse problems, exploring natural hydrogen resources, and investigating the formation mechanisms of oceanic plateaus using marine magnetic data.
+I am currently working with <a href="https://sites.google.com/view/jiajiasun" target="_blank" rel="noopener noreferrer">Dr. Jiajia Sun</a> and <a href="http://www2.egr.uh.edu/~jchen82" target="_blank" rel="noopener noreferrer">Dr. Jiefu Chen</a> on quantifying the uncertainties of geophysical inverse problems, exploring natural hydrogen resources, and investigating the formation mechanisms of oceanic plateaus using marine magnetic data.
 </p>
 <p align = "justify"> 
 Before joining UH, I completed a two-year postdoctoral research position supervised by [Prof. Qinghua Huang](https://scholar.google.com/citations?user=mvImZ_oAAAAJ&hl=en&oi=ao) at PKU in 2023.

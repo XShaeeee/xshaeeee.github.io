@@ -13,7 +13,7 @@ I am currently working with [Dr. Jiajia Sun](https://sites.google.com/view/jiaji
 
 Before joining UH, I completed a two-year postdoctoral research position supervised by [Prof. Qinghua Huang](https://scholar.google.com/citations?user=mvImZ_oAAAAJ&hl=en&oi=ao) at PKU in 2023.
 
-My research interests include
+My research interests include:
 
 - Uncertainty quantification of geophysical inverse problems based on machine learning techniques
 - Signal processing, modeling, imaging, uncertainty quantification of electromagnetic data, especially airborne electromagnetic data

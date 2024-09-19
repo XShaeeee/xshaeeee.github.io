@@ -21,7 +21,7 @@ repository               : "tessaaawu/tessaaawu.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "SquarePhoto.jpg"
+  avatar           : "SquarePhoto.png"
   name             : "Sihong Wu"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Reasearch Fellow"

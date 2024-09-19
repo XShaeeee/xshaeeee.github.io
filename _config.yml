@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sihong Wu"
+title                    : "吴思弘 Sihong Wu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"

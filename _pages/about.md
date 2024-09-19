@@ -14,7 +14,7 @@ I am a postdoctoral research fellow with the Department of Earth and Atmospheric
 I am currently working with <a href="https://sites.google.com/view/jiajiasun" target="_blank" rel="noopener noreferrer">Dr. Jiajia Sun</a> and <a href="http://www2.egr.uh.edu/~jchen82" target="_blank" rel="noopener noreferrer">Dr. Jiefu Chen</a> on quantifying the uncertainties of geophysical inverse problems, exploring natural hydrogen resources, and investigating the formation mechanisms of oceanic plateaus using marine magnetic data.
 </p>
 <p align = "justify"> 
-Before joining UH, I completed a two-year postdoctoral research position supervised by [Prof. Qinghua Huang](https://scholar.google.com/citations?user=mvImZ_oAAAAJ&hl=en&oi=ao) at PKU in 2023.
+Before joining UH, I completed a two-year postdoctoral research position supervised by <a href="https://scholar.google.com/citations?user=mvImZ_oAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Prof. Qinghua Huang</a> at PKU in 2023.
 </p>
 <p align = "justify"> 
 <strong>My research interests include:</strong>

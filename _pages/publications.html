@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Journal articles</h3>
+<h2>Journal articles</h2>
 <ol reversed>
 <li><strong>Wu, S.</strong>, Huang, Q. & Zhao, L. Physics-informed deep learning-based inversion for airborne electromagnetic data. Geophysical Journal International, 238, 1774-1789. [<a href="https://doi.org/10.1093/gji/ggae244" target="_blank" rel="noopener noreferrer">Link</a>]</li>
 
@@ -36,27 +36,7 @@ author_profile: true
 <li>Wang, K., Huang, Q. & <strong>Wu, S.</strong>, 2020. Application of long short-term memory neural network in geoelectric field data processing. Chinese Journal of Geophysics (in Chinese), 63(8), 3015-3024. [<a href="https://doi.org/10.6038/cjg2020O0119" target="_blank" rel="noopener noreferrer">Link</a>]</li>
 
 </ol>
-  
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
 
+<h2>Conference Papers</h2>
 
 

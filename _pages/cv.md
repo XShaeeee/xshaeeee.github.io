@@ -40,9 +40,8 @@ redirect_from:
 <li><strong>Collaborator.</strong>National Natural Science Foundation of China. No. 41804072. <i>Three-dimensional forward modeling of global and regional-scale ocean tidal electromagnetic signals</i>. Project period: 10/2019-12/2020. Funding: 250,000 RMB.</li>
 </ol>
 
-<h2>Honors and awards</h2>
+<h2>Honors and Awards</h2>
 <ul>
-
 <li><strong>2022</strong>	Outstanding Doctoral Dissertation Award, Chinese Geophysical Society</li>
 <li><strong>2021</strong>	Excellent Graduate Award, Peking University</li>
 <li><strong>2020</strong>	Outstanding Student Presentation Award, Chinese Geosciences Union Annual Meeting</li>
@@ -51,6 +50,22 @@ redirect_from:
 <li><strong>2019</strong>	Outstanding Student Presentation Award, Chinese Geophysical Society</li>
 <li><strong>2019</strong>	Award for Scientific Research, Peking University</li>
 <li><strong>2018</strong>	Award for Scientific Research, Peking University</li>
+</ul>
+
+
+<h2>Services</h2>
+<h3>Professional organizations and meetings</h3>
+<h4>2024</h4>
+<ul>
+<li><strong>Session convener</strong> for T001-I. Advances in machine learning applications in marine geosciences: from data acquisition and analysis to interpretation across varied marine environments and scales. AGU, Washington, D.C., USA</li>
+<li><strong>Session co-convener</strong> for NS008. Advances in Multimethod Geophysical Data Interpretation and Other Applications of Machine Learning. AGU, Washington, D.C., USA</li>
+<li><strong>Guest Editor</strong> for special issue on Frontiers in Electromagnetic Geophysics, Geophysics</li>
+<li><strong>Session co-chair</strong> for NEF P1 Emerging Energy: Building the Future on the Past 2. IMAGE, Houston, TX, USA</li>
+<li><strong>Session co-chair</strong> for EM 1 Modeling and Inversion. IMAGE, Houston, TX, USA</li>
+</ul>
+<h4>2023</h4>
+<ul>
+<li><strong>Session co-chair</strong> for S-EM14 Electric, magnetic and electromagnetic survey technologies and scientific achievements. JpGU Geoscience Union Meeting, Chiba, Japan</li>
 </ul>
 
 

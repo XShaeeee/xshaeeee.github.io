@@ -55,7 +55,7 @@ redirect_from:
 
 <h2>Services</h2>
 <h3>Professional organizations and meetings</h3>
-<h4>2024</h4>
+<strong>2024</strong>
 <ul>
 <li><strong>Session convener</strong> for T001-I. Advances in machine learning applications in marine geosciences: from data acquisition and analysis to interpretation across varied marine environments and scales. AGU, Washington, D.C., USA</li>
 <li><strong>Session co-convener</strong> for NS008. Advances in Multimethod Geophysical Data Interpretation and Other Applications of Machine Learning. AGU, Washington, D.C., USA</li>
@@ -63,7 +63,7 @@ redirect_from:
 <li><strong>Session co-chair</strong> for NEF P1 Emerging Energy: Building the Future on the Past 2. IMAGE, Houston, TX, USA</li>
 <li><strong>Session co-chair</strong> for EM 1 Modeling and Inversion. IMAGE, Houston, TX, USA</li>
 </ul>
-<h4>2023</h4>
+<strong>2023</strong>
 <ul>
 <li><strong>Session co-chair</strong> for S-EM14 Electric, magnetic and electromagnetic survey technologies and scientific achievements. JpGU Geoscience Union Meeting, Chiba, Japan</li>
 </ul>

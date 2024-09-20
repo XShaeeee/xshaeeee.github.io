@@ -4,7 +4,6 @@ title: "Footprint &#128099;"
 permalink: /footprint/
 author_profile: true
 ---
-
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -13,12 +12,11 @@ author_profile: true
     <title>我的足迹地图</title>
     <!-- 引入Leaflet的CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <!-- 引入Leaflet的JS -->
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <!-- 地图容器的CSS样式 -->
     <style>
         #map {
-            height: 600px;
-            width: 100%;
+            height: 600px; /* 设置地图的高度 */
+            width: 100%;   /* 设置地图的宽度 */
         }
     </style>
 </head>
@@ -28,29 +26,29 @@ author_profile: true
     <!-- 地图容器 -->
     <div id="map"></div>
 
+    <!-- 引入Leaflet的JS -->
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
     <script>
-        // 初始化地图，设置中心点为(0, 0)，缩放级别为2
+        // 初始化地图对象，设置地图中心为(0, 0)，缩放级别为2
         var map = L.map('map').setView([0, 0], 2);
 
-        // 添加地图图层（使用OpenStreetMap作为底图）
+        // 添加OpenStreetMap图层
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
 
-        // 标记我去过的地点
+        // 定义去过的地点
         var places = [
             { name: "北京, 中国", coords: [39.9042, 116.4074] },
             { name: "纽约, 美国", coords: [40.7128, -74.0060] },
-            { name: "伦敦, 英国", coords: [51.5074, -0.1278] },
-            { name: "悉尼, 澳大利亚", coords: [-33.8688, 151.2093] },
-            { name: "开罗, 埃及", coords: [30.0444, 31.2357] }
+            { name: "伦敦, 英国", coords: [51.5074, -0.1278] }
         ];
 
-        // 在地图上循环标记这些地方
+        // 在地图上循环标记这些地点
         places.forEach(function(place) {
             L.marker(place.coords).addTo(map)
-                .bindPopup(`<b>${place.name}</b>`)
-                .openPopup();
+                .bindPopup(`<b>${place.name}</b>`);
         });
     </script>
 

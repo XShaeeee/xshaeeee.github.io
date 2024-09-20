@@ -11,26 +11,19 @@ redirect_from:
 
 Education
 -----
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Geophysics, Peking University, 2021
+* B.S. in Geophysics, University of Science and Technology in China, 2016
 
 Work experience
 -----
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-present: Postdoctoral Researcher
+  * Department of Earth & Atmospheric Sciences, University of Houston, TX, USA
+  *	Department of Department of Electrical and Computer Engineering, University of Houston, TX, USA
+  *	Supervisor: Prof. Jiajia SUN, Prof. Jiefu CHEN
+* 2021-2023: Postdoctoral Researcher
+  * Department of Geophysics, Peking University, Beijing, China
+  * ·	Supervisor: Prof. Qinghua HUANG
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======

@@ -9,7 +9,6 @@ redirect_from:
 <a href="../files/CV-Sihong Wu-092024.pdf" target="_blank" rel="noopener noreferrer">&#128196; Download my full CV in PDF</a>
 
 {% include base_path %}
-
 <h2>Education</h2>
 <ul>
 <li>Ph.D in Geophysics, Peking University, 2021</li>

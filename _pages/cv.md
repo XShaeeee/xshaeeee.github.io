@@ -9,30 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
------
-* Ph.D in Geophysics, Peking University, 2021
-* B.S. in Geophysics, University of Science and Technology in China, 2016
+<h2>Education</h2>
+<ul>
+<li>Ph.D in Geophysics, Peking University, 2021</li>
+<li>B.S. in Geophysics, University of Science and Technology in China, 2016</li>
+</ul>
 
-Work experience
------
-* 2023-present: Postdoctoral Researcher
-  * Department of Earth & Atmospheric Sciences, University of Houston, TX, USA
-  *	Department of Department of Electrical and Computer Engineering, University of Houston, TX, USA
-  *	Supervisor: Prof. Jiajia SUN, Prof. Jiefu CHEN
-* 2021-2023: Postdoctoral Researcher
-  * Department of Geophysics, Peking University, Beijing, China
-  * ·	Supervisor: Prof. Qinghua HUANG
-
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<h2>Work experience</h2>
+<ul>
+<li>2023-present: Postdoctoral Researcher</li>
+  <ul>
+  <li>Department of Earth & Atmospheric Sciences, University of Houston, TX, USA</li>
+  <li>Department of Department of Electrical and Computer Engineering, University of Houston, TX, USA</li>
+  <li>Supervisor: Prof. Jiajia SUN, Prof. Jiefu CHEN</li>
+  </ul>
+<li>2021-2023: Postdoctoral Researcher</li>
+  <ul>
+  <li>Department of Geophysics, Peking University, Beijing, China</li>
+  <li>Supervisor: Prof. Qinghua HUANG</li>
+  </ul>
+</ul>
 
 Publications
 ======

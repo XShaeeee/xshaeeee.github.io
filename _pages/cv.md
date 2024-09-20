@@ -68,5 +68,14 @@ redirect_from:
 <li><strong>Session co-chair</strong> for S-EM14 Electric, magnetic and electromagnetic survey technologies and scientific achievements. JpGU Geoscience Union Meeting, Chiba, Japan</li>
 </ul>
 
-
+<h3>Reviewers</h3>
+<ul>
+<li><i>Geophysical Journal International</i>,</li>
+<li><i>IEEE Transactions on Geoscience and Remote Sensing</i>,</li>
+<li><i>IEEE Geoscience and Remote Sensing Letters</i>,</li>
+<li><i>IEEE Journal of Selected Topics in Signal Processing</i>,</li>
+<li><i>Geophysics</i>,
+<li><i>Geophysical Prospecting</i>,</li>
+<li><i>Chinese Journal of Geophysics</i></li>
+</ul>
 

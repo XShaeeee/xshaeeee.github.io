@@ -74,7 +74,7 @@ redirect_from:
 <li><i>IEEE Transactions on Geoscience and Remote Sensing</i>,</li>
 <li><i>IEEE Geoscience and Remote Sensing Letters</i>,</li>
 <li><i>IEEE Journal of Selected Topics in Signal Processing</i>,</li>
-<li><i>Geophysics</i>,
+<li><i>Geophysics</i>,</li>
 <li><i>Geophysical Prospecting</i>,</li>
 <li><i>Chinese Journal of Geophysics</i></li>
 </ul>

@@ -26,5 +26,4 @@ Before joining UH, I completed a two-year postdoctoral research position supervi
 <li>Near-surface hydrological investigation and resource exploration</li>
 </ul>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=TessaaaWu&color=blue)
 

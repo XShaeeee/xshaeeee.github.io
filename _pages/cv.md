@@ -40,4 +40,18 @@ redirect_from:
 <li><strong>Collaborator.</strong>National Natural Science Foundation of China. No. 41804072. <i>Three-dimensional forward modeling of global and regional-scale ocean tidal electromagnetic signals</i>. Project period: 10/2019-12/2020. Funding: 250,000 RMB.</li>
 </ol>
 
+<h2>Honors and awards</h2>
+<ul>
+
+<li><strong>2022</strong>	Outstanding Doctoral Dissertation Award, Chinese Geophysical Society</li>
+<li><strong>2021</strong>	Excellent Graduate Award, Peking University</li>
+<li><strong>2020</strong>	Outstanding Student Presentation Award, Chinese Geosciences Union Annual Meeting</li>
+<li><strong>2020</strong>	Hai Liang Scholarship, Peking University</li>
+<li><strong>2020</strong>	Merit Student Award, Peking University</li>
+<li><strong>2019</strong>	Outstanding Student Presentation Award, Chinese Geophysical Society</li>
+<li><strong>2019</strong>	Award for Scientific Research, Peking University</li>
+<li><strong>2018</strong>	Award for Scientific Research, Peking University</li>
+</ul>
+
+
 

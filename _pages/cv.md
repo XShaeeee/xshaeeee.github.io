@@ -30,6 +30,7 @@ redirect_from:
   </ul>
 </ul>
 
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}

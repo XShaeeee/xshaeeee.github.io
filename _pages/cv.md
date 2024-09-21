@@ -37,7 +37,7 @@ redirect_from:
 <li><strong>Collaborator.</strong> National Natural Science Foundation of China. No. U2239201. <i>Study on the spatiotemporal characteristics of seismic electromagnetic anomalies in the Sichuan-Yunnan region and their relationship with seismic activity</i>. Project period: 01/2023-12/2026. Funding: 2,870,000 RMB.</li>
 <li><strong>Collaborator.</strong> National Natural Science Foundation of China. No. 42274088. <i>Study on the electrical structure of the middle to upper mantle in the Chinese Mainland based on geomagnetic diurnal variations</i>. Project period: 01/2023-12/2026. Funding: 560,000 RMB.</li>
 <li><strong>Collaborator.</strong> National Natural Science Foundation of China. No. 41874082. <i>Study of joint methodology integrating wavelet analysis and probability tomography of self-potential data and the application in landslide monitoring</i>. Project period: 01/2019-12/2022. Funding: 650,000 RMB.</li>
-<li><strong>Collaborator.</strong>National Natural Science Foundation of China. No. 41804072. <i>Three-dimensional forward modeling of global and regional-scale ocean tidal electromagnetic signals</i>. Project period: 10/2019-12/2020. Funding: 250,000 RMB.</li>
+<li><strong>Collaborator.</strong> National Natural Science Foundation of China. No. 41804072. <i>Three-dimensional forward modeling of global and regional-scale ocean tidal electromagnetic signals</i>. Project period: 10/2019-12/2020. Funding: 250,000 RMB.</li>
 </ol>
 
 <h2>Honors and Awards</h2>

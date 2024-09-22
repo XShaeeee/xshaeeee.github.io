@@ -4,7 +4,6 @@ title: "Leave your mark! &#128099;"
 permalink: /visitor/
 author_profile: true
 ---
-
 <div id="visitor-wall" style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; margin-bottom: 50px;">
     <h2 style="text-align: center;">🌟 Visitor Wall 🌟</h2>
     
@@ -24,16 +23,27 @@ author_profile: true
 
 <script>
     function addMessage() {
-        const message = document.getElementById("visitor-message").value;
-        if (message.trim() === "") return;
+        // 获取留言内容
+        const message = document.getElementById("visitor-message").value.trim();
+        
+        // 如果留言为空，直接返回
+        if (message === "") return;
 
+        // 创建新的留言卡片
         const messageBoard = document.getElementById("message-board");
         const newCard = document.createElement("div");
+        
+        // 设置留言卡片的样式
         newCard.style = "background-color: #fff3cd; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); max-width: 200px; text-align: center;";
+        
+        // 将留言内容放入卡片
         newCard.innerHTML = message;
 
+        // 将新留言添加到留言展示区域
         messageBoard.appendChild(newCard);
-        document.getElementById("visitor-message").value = ""; // 清空输入框
+
+        // 清空输入框
+        document.getElementById("visitor-message").value = "";
     }
 </script>
 

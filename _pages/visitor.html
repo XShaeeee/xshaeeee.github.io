@@ -36,3 +36,36 @@ author_profile: true
         document.getElementById("visitor-message").value = ""; // 清空输入框
     }
 </script>
+
+
+<div id="idea-garden" style="background-color: #e6f7ff; padding: 20px; border-radius: 10px;">
+    <h2 style="text-align: center;">🌷 Idea Garden 🌷</h2>
+    
+    <!-- 创意提交表单 -->
+    <div style="margin-bottom: 20px;">
+        <textarea id="idea-input" placeholder="Plant a new idea!" rows="3" style="width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #ddd;"></textarea>
+        <button onclick="plantIdea()" style="background-color: #28a745; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; margin-top: 10px;">
+            🌱 Plant Idea
+        </button>
+    </div>
+
+    <!-- 创意展示区域 -->
+    <div id="garden" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+        <!-- 动态添加的创意会显示在这里 -->
+    </div>
+</div>
+
+<script>
+    function plantIdea() {
+        const idea = document.getElementById("idea-input").value;
+        if (idea.trim() === "") return;
+
+        const garden = document.getElementById("garden");
+        const newFlower = document.createElement("div");
+        newFlower.style = "background-color: #d4edda; padding: 20px; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 150px; height: 150px; display: flex; justify-content: center; align-items: center; text-align: center;";
+        newFlower.innerHTML = idea;
+
+        garden.appendChild(newFlower);
+        document.getElementById("idea-input").value = ""; // 清空输入框
+    }
+</script>

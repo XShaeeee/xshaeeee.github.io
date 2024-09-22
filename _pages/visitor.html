@@ -4,3 +4,122 @@ title: "Leave your mark! &#128099;"
 permalink: /visitor/
 author_profile: true
 ---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Idea Garden</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f0f8ff;
+        }
+
+        /* 容器样式 */
+        #idea-garden {
+            background-color: #e6f7ff;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        /* 花园标题 */
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        /* 花朵容器 */
+        #garden {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        /* 每个花朵的样式 */
+        .flower {
+            background-color: #ffddc1;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            font-size: 16px;
+            text-align: center;
+            padding: 10px;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .flower:hover {
+            transform: scale(1.1);
+        }
+
+        /* 提交表单 */
+        textarea {
+            width: 100%;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+        }
+
+        button {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+        button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="idea-garden">
+        <h2>🌷 Idea Garden 🌷</h2>
+        
+        <!-- 提交创意的表单 -->
+        <div style="margin-bottom: 20px;">
+            <textarea id="idea-input" placeholder="Plant a new idea!" rows="3"></textarea>
+            <button onclick="plantIdea()">🌱 Plant Idea</button>
+        </div>
+
+        <!-- 显示“花朵”的区域 -->
+        <div id="garden">
+            <!-- 花朵将动态添加到这里 -->
+        </div>
+    </div>
+
+    <script>
+        function plantIdea() {
+            const idea = document.getElementById("idea-input").value.trim();
+            
+            // 确保输入内容不为空
+            if (idea === "") return;
+
+            const garden = document.getElementById("garden");
+
+            // 创建一个新的花朵元素
+            const newFlower = document.createElement("div");
+            newFlower.className = "flower";
+            newFlower.innerHTML = idea;
+
+            // 将新花朵添加到花园
+            garden.appendChild(newFlower);
+
+            // 清空输入框
+            document.getElementById("idea-input").value = "";
+        }
+    </script>
+
+</body>
+</html>

@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Sihong Wu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sihong Wu"
 description              : &description "personal description"
 url                      : "https://tessaaawu.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

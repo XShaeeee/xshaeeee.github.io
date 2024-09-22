@@ -5,44 +5,58 @@ permalink: /visitor/
 author_profile: true
 ---
 
-<div id="idea-garden" style="background-color: #e6f7ff; padding: 20px; border-radius: 10px;">
-    <h2 style="text-align: center;">🌷 Idea Garden 🌷</h2>
-    
-    <!-- 提交创意的表单 -->
-    <div style="margin-bottom: 20px;">
-        <textarea id="idea-input" placeholder="Plant a new idea!" rows="3" style="width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #ddd;"></textarea>
-        <button onclick="plantIdea()" style="background-color: #28a745; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; margin-top: 10px;">
-            🌱 Plant Idea
-        </button>
-    </div>
+<h2 style="text-align: center;">Click inside the box to drop an emoji!</h2>
 
-    <!-- 显示“花朵”的区域 -->
-    <div id="garden" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-        <!-- 动态生成的花朵将出现在这里 -->
-    </div>
+<!-- 容器 -->
+<div id="emoji-container" style="width: 100%; height: 600px; border: 2px solid #ddd; position: relative; overflow: hidden; background-color: #fff;">
 </div>
 
 <script>
-    function plantIdea() {
-        const idea = document.getElementById("idea-input").value.trim();
+    // 随机 Emoji 数组
+    const emojis = ['😂', '😍', '💥', '🌟', '🔥', '🍀', '🌈', '🎉', '💡', '🌸'];
+
+    // 获取容器
+    const container = document.getElementById('emoji-container');
+
+    // 设置鼠标移动时的 Emoji
+    container.addEventListener('mousemove', (e) => {
+        const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
+        container.style.cursor = `url(data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40'><text x='0' y='30' font-size='30'>${randomEmoji}</text></svg>), auto`;
+    });
+
+    // 点击时生成新的 Emoji
+    container.addEventListener('click', (e) => {
+        const emoji = document.createElement('div');
+        const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
+        emoji.classList.add('emoji');
+        emoji.textContent = randomEmoji;
+
+        // 设置 emoji 的初始位置为鼠标点击处
+        emoji.style.left = `${e.clientX - 20}px`; // 中心对齐 emoji
+        emoji.style.top = `${e.clientY - 20}px`;
+
+        // 设置 emoji 样式
+        emoji.style.position = "absolute";
+        emoji.style.fontSize = "40px";
+        emoji.style.transition = "transform 2s ease-out";
+        emoji.style.transform = "translateY(0)";
         
-        // 确保输入框不为空
-        if (idea === "") return;
+        // 将 emoji 添加到容器中
+        container.appendChild(emoji);
 
-        const garden = document.getElementById("garden");
+        // 掉落效果
+        setTimeout(() => {
+            emoji.style.transform = "translateY(400px)";
+        }, 100);
 
-        // 创建一个新的花朵元素
-        const newFlower = document.createElement("div");
-        newFlower.className = "flower";
-        newFlower.innerHTML = idea;
+        // 弹跳效果
+        setTimeout(() => {
+            emoji.style.transform = "translateY(360px)";
+        }, 2000);
 
-        // 添加样式
-        newFlower.style = "background-color: #ffddc1; width: 150px; height: 150px; border-radius: 50%; display: flex; justify-content: center; align-items: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); font-size: 16px; text-align: center; padding: 10px; transition: transform 0.3s ease-in-out;";
-
-        // 将花朵添加到花园
-        garden.appendChild(newFlower);
-
-        // 清空输入框
-        document.getElementById("idea-input").value = "";
-    }
+        // 让 emoji 停留一段时间后消失
+        setTimeout(() => {
+            emoji.remove();
+        }, 3500);
+    });
 </script>

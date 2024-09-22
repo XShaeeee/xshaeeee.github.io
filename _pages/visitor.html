@@ -5,3 +5,34 @@ permalink: /visitor/
 author_profile: true
 ---
 
+<div id="visitor-wall" style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; margin-bottom: 50px;">
+    <h2 style="text-align: center;">🌟 Visitor Wall 🌟</h2>
+    
+    <!-- 留言表单 -->
+    <div style="margin-bottom: 20px;">
+        <textarea id="visitor-message" placeholder="Leave your mark here!" rows="3" style="width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #ddd;"></textarea>
+        <button onclick="addMessage()" style="background-color: #f39c12; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; margin-top: 10px;">
+            📝 Post Message
+        </button>
+    </div>
+
+    <!-- 留言展示区域 -->
+    <div id="message-board" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+        <!-- 动态添加的留言卡片会显示在这里 -->
+    </div>
+</div>
+
+<script>
+    function addMessage() {
+        const message = document.getElementById("visitor-message").value;
+        if (message.trim() === "") return;
+
+        const messageBoard = document.getElementById("message-board");
+        const newCard = document.createElement("div");
+        newCard.style = "background-color: #fff3cd; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); max-width: 200px; text-align: center;";
+        newCard.innerHTML = message;
+
+        messageBoard.appendChild(newCard);
+        document.getElementById("visitor-message").value = ""; // 清空输入框
+    }
+</script>

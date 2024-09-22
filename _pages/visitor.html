@@ -4,6 +4,7 @@ title: "Leave your mark! &#128099;"
 permalink: /visitor/
 author_profile: true
 ---
+
 <div id="visitor-wall" style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; margin-bottom: 50px;">
     <h2 style="text-align: center;">🌟 Visitor Wall 🌟</h2>
     
@@ -23,11 +24,19 @@ author_profile: true
 
 <script>
     function addMessage() {
+        // 调试：在控制台打印消息，确认函数被调用
+        console.log("addMessage function triggered");
+
         // 获取留言内容
         const message = document.getElementById("visitor-message").value.trim();
         
         // 如果留言为空，直接返回
-        if (message === "") return;
+        if (message === "") {
+            console.log("Message is empty, nothing to add.");
+            return;
+        }
+
+        console.log("Message to add:", message);
 
         // 创建新的留言卡片
         const messageBoard = document.getElementById("message-board");
@@ -47,7 +56,7 @@ author_profile: true
     }
 </script>
 
-
+<!-- 
 <div id="idea-garden" style="background-color: #e6f7ff; padding: 20px; border-radius: 10px;">
     <h2 style="text-align: center;">🌷 Idea Garden 🌷</h2>
     
@@ -79,3 +88,4 @@ author_profile: true
         document.getElementById("idea-input").value = ""; // 清空输入框
     }
 </script>
+ -->

@@ -12,63 +12,65 @@ author_profile: true
 </div>
 
 <script>
-    // 检查 JavaScript 是否加载成功
-    console.log("JavaScript is loaded!");
+    // 等待 DOM 加载完毕后再执行 JavaScript
+    document.addEventListener('DOMContentLoaded', (event) => {
+        console.log("DOM fully loaded and parsed!");
 
-    // 随机 Emoji 数组
-    const emojis = ['😂', '😍', '💥', '🌟', '🔥', '🍀', '🌈', '🎉', '💡', '🌸'];
+        // 随机 Emoji 数组
+        const emojis = ['😂', '😍', '💥', '🌟', '🔥', '🍀', '🌈', '🎉', '💡', '🌸'];
 
-    // 获取容器
-    const container = document.getElementById('emoji-container');
+        // 获取容器
+        const container = document.getElementById('emoji-container');
 
-    // 确认容器加载正确
-    if (container) {
-        console.log("Container found!");  // 打印信息，检查容器是否加载
+        // 确认容器加载正确
+        if (container) {
+            console.log("Container found!");  // 打印信息，检查容器是否加载
 
-        // 设置鼠标移动时的 Emoji
-        container.addEventListener('mousemove', (e) => {
-            console.log("Mouse is moving inside the container!");
-            const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
-            container.style.cursor = `url(data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40'><text x='0' y='30' font-size='30'>${randomEmoji}</text></svg>), auto`;
-        });
+            // 设置鼠标移动时的 Emoji
+            container.addEventListener('mousemove', (e) => {
+                console.log("Mouse is moving inside the container!");
+                const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
+                container.style.cursor = `url(data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40'><text x='0' y='30' font-size='30'>${randomEmoji}</text></svg>), auto`;
+            });
 
-        // 点击时生成新的 Emoji
-        container.addEventListener('click', (e) => {
-            console.log("Container clicked at position:", e.clientX, e.clientY);
-            const emoji = document.createElement('div');
-            const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
-            emoji.classList.add('emoji');
-            emoji.textContent = randomEmoji;
+            // 点击时生成新的 Emoji
+            container.addEventListener('click', (e) => {
+                console.log("Container clicked at position:", e.clientX, e.clientY);
+                const emoji = document.createElement('div');
+                const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
+                emoji.classList.add('emoji');
+                emoji.textContent = randomEmoji;
 
-            // 设置 emoji 的初始位置为鼠标点击处
-            emoji.style.left = `${e.clientX - 20}px`; // 中心对齐 emoji
-            emoji.style.top = `${e.clientY - 20}px`;
+                // 设置 emoji 的初始位置为鼠标点击处
+                emoji.style.left = `${e.clientX - 20}px`; // 中心对齐 emoji
+                emoji.style.top = `${e.clientY - 20}px`;
 
-            // 设置 emoji 样式
-            emoji.style.position = "absolute";
-            emoji.style.fontSize = "40px";
-            emoji.style.transition = "transform 2s ease-out";
-            emoji.style.transform = "translateY(0)";
-            
-            // 将 emoji 添加到容器中
-            container.appendChild(emoji);
+                // 设置 emoji 样式
+                emoji.style.position = "absolute";
+                emoji.style.fontSize = "40px";
+                emoji.style.transition = "transform 2s ease-out";
+                emoji.style.transform = "translateY(0)";
+                
+                // 将 emoji 添加到容器中
+                container.appendChild(emoji);
 
-            // 掉落效果
-            setTimeout(() => {
-                emoji.style.transform = "translateY(400px)";
-            }, 100);
+                // 掉落效果
+                setTimeout(() => {
+                    emoji.style.transform = "translateY(400px)";
+                }, 100);
 
-            // 弹跳效果
-            setTimeout(() => {
-                emoji.style.transform = "translateY(360px)";
-            }, 2000);
+                // 弹跳效果
+                setTimeout(() => {
+                    emoji.style.transform = "translateY(360px)";
+                }, 2000);
 
-            // 让 emoji 停留一段时间后消失
-            setTimeout(() => {
-                emoji.remove();
-            }, 3500);
-        });
-    } else {
-        console.log("Container not found!");
-    }
+                // 让 emoji 停留一段时间后消失
+                setTimeout(() => {
+                    emoji.remove();
+                }, 3500);
+            });
+        } else {
+            console.log("Container not found!");
+        }
+    });
 </script>

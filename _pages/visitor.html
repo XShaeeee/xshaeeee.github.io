@@ -18,14 +18,19 @@ author_profile: true
     // 获取容器
     const container = document.getElementById('emoji-container');
 
+    // 确认容器加载正确
+    console.log(container ? "Container found!" : "Container not found!");
+
     // 设置鼠标移动时的 Emoji
     container.addEventListener('mousemove', (e) => {
+        console.log("Mouse is moving inside the container!");
         const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
         container.style.cursor = `url(data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='40'><text x='0' y='30' font-size='30'>${randomEmoji}</text></svg>), auto`;
     });
 
     // 点击时生成新的 Emoji
     container.addEventListener('click', (e) => {
+        console.log("Container clicked at position:", e.clientX, e.clientY);
         const emoji = document.createElement('div');
         const randomEmoji = emojis[Math.floor(Math.random() * emojis.length)];
         emoji.classList.add('emoji');

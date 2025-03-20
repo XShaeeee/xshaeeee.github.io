@@ -15,9 +15,13 @@ redirect_from:
 - 2019-2023 🎓 B.S. in Geochemistry, School of Earth Sciences and Resources, China University of Geosciences, Beijing.
 
 # Honors and Awards 
-- 2023 Outstanding Undergraduate Thesis, CUGB.
-- 2022 Silvercorp Mining Scholarship, CUGB.
-**- 2021 China National Scholarship (Undergraduate, Top 0.2%)🏅.**
-- 2020 Silvercorp Mining Scholarship, CUGB.
+- 2024.12 Merit Student of CUGB.
+- 2023.06 Outstanding Undergraduate Thesis, CUGB.
+- 2022.12 Silvercorp Mining Scholarship, CUGB.
+- 2022.12 Merit Student of CUGB.
+- 2021.12 **China National Scholarship** (Undergraduate, Top 0.2%)🏅.
+- 2021.05 First-Class Academic Scholarship (Top 5%), CUGB.
+- 2020.12 Silvercorp Mining Scholarship, CUGB.
+
 
 # Experiences

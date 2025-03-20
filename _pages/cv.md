@@ -8,7 +8,7 @@ redirect_from:
 ---
 <a href="../files/CV-Sihong Wu-092024.pdf" target="_blank" rel="noopener noreferrer">&#128196; Download my full CV in PDF</a>
 
-[Download my full CV in PDF](https://github.com/XShaeeee/XShaeeee.github.io/files/CV_updated_2025_03.pdf)
+📄 [Download my full CV in PDF](https://github.com/XShaeeee/XShaeeee.github.io/raw/main/files/CV_updated_2025_03.pdf)
 
 # Education
 - 2023-2026 🎓 M.Sc. in Geology, School of Earth Sciences and Resources, China University of Geosciences, Beijing.

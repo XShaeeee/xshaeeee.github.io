@@ -33,9 +33,9 @@ author:
   # Academic websites
   googlescholar    : #"https://scholar.google.com/citations?user=pt9B3u0AAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : # "https://orcid.org/0009-0002-2871-5772"
+  orcid            : "https://orcid.org/0009-0002-2871-5772"
   semantic         : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Xueyin-Liang?ev=hdr_xprf"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

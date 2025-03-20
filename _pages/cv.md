@@ -16,8 +16,8 @@ redirect_from:
 
 # Honors and Awards 
 - 2023 Outstanding Undergraduate Thesis, CUGB.
-- 2022 Silvercorp Mining Scholarship, CUGB
-**- 2021 China National Scholarship (Undergraduate, Top 0.2%)🏅**
-- 2020 Silvercorp Mining Scholarship, CUGB
+- 2022 Silvercorp Mining Scholarship, CUGB.
+**- 2021 China National Scholarship (Undergraduate, Top 0.2%)🏅.**
+- 2020 Silvercorp Mining Scholarship, CUGB.
 
 # Experiences

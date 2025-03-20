@@ -21,7 +21,7 @@ repository               : "xshaeeee/xshaeeee.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "SquarePhoto.png"
+  avatar           : "photo.png"
   name             : "Xueyin Liang"
   pronouns         : # example: "she/her"  
   bio              : "Earth Sciences and Economics"
@@ -33,7 +33,7 @@ author:
   # Academic websites
   googlescholar    : #"https://scholar.google.com/citations?user=pt9B3u0AAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : # "https://orcid.org/0000-0002-5584-664X"
+  orcid            : # "https://orcid.org/0009-0002-2871-5772"
   semantic         : # URL
   researchgate     : # URL
 

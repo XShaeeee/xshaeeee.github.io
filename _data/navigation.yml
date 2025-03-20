@@ -5,7 +5,10 @@
 # prevent it from being included in the site.
 
 main:
-  
+      
+  - title: "CV"
+    url: /cv/
+    
   - title: "Projects"
     url: /projects/
 
@@ -23,10 +26,7 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+
   # - title: "Guide"
   #   url: /markdown/
 

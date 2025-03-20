@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Xueyin Liang"
 title_separator          : "-"
-name                     : &name "Xueyin Liang"
+name                     : "Xueyin Liang"
 description              : &description "personal description"
 url                      : "https://xshaeeee.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

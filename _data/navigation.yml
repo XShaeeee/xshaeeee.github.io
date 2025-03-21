@@ -18,11 +18,11 @@ main:
   - title: "Publications"
     url: /publications/
 
- - title: "Miscellaneous"
-    url: /miscellaneous/ 
+  # - title: "Miscellaneous"
+  #   url: /miscellaneous/ 
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Talks"
+     url: /talks/    
    
   # - title: "Portfolio"
   #   url: /portfolio/

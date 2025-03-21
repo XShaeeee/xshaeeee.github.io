@@ -20,5 +20,5 @@ redirect_from:
 - Mantle properties
 - Machine learning
 - Thermodynamic modeling
-- Casual inference
+- Casual inference in Earth Sciences
 

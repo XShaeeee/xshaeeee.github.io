@@ -11,7 +11,7 @@ redirect_from:
 
 # 🎓 Education
 - _**2023.09-2026.06**_  M.Sc. in Geology, School of Earth Sciences and Resources, China University of Geosciences, Beijing.
-- _**2019.09-2023.06**_  B.A. in Economics, National School of Development, Peking University, Beijing.
+- _**2019.09-2023.06**_  B.A. in Economics, National School of Development, Peking University.
 - _**2019.09-2023.06**_  B.S. in Geochemistry, School of Earth Sciences and Resources, China University of Geosciences, Beijing.
 
 # 🎖 Honors and Awards 

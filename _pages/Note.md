@@ -9,6 +9,6 @@ redirect_from:
 
 # Probility and Statistics
 
-**- Lecture 1 ** Basics of Probs. and Stats.
+**- Lecture 1** Basics of Probs. and Stats.
 
-**- Lecture 2 ** 
+**- Lecture 2** 

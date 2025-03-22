@@ -27,6 +27,4 @@ redirect_from:
 # 💼 Experiences
 
 
-# 🎨 Miscellaneous
 
-Apart from academic studies and research, I have a wide range of interests, 

@@ -10,6 +10,18 @@ redirect_from:
 📄 [Download my full CV in PDF](../files/CV_updated_2025_03.pdf)
 
 # 🎓 Education
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="CUGB.png" alt="Logo 1" style="width: 50px; height: 50px; margin-right: 10px;" />
+  <div>
+    <p><strong>School of Earth Sciences and Resources, China University of Geosciences, Beijing</strong></p>
+    <p>2023.09 - 2026.06</p>
+    <p><strong>M.Sc. in Geology</strong></p>
+  </div>
+</div>
+
+
+
 - _**2023.09-2026.06**_  M.Sc. in Geology, School of Earth Sciences and Resources, China University of Geosciences, Beijing.
 - _**2019.09-2023.06**_  B.A. in Economics, National School of Development, Peking University.
 - _**2019.09-2023.06**_  B.S. in Geochemistry, School of Earth Sciences and Resources, China University of Geosciences, Beijing.

@@ -12,7 +12,7 @@ redirect_from:
 # 🎓 Education
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="CUGB.png" alt="Logo 1" style="width: 50px; height: 50px; margin-right: 10px;" />
+  <img src="image/CUGB.png" alt="Logo 1" style="width: 50px; height: 50px; margin-right: 10px;" />
   <div>
     <p><strong>School of Earth Sciences and Resources, China University of Geosciences, Beijing</strong></p>
     <p>2023.09 - 2026.06</p>

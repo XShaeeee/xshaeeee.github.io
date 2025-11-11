@@ -17,22 +17,22 @@ redirect_from:
 
 # 🎖 Honors and Awards 
 
-- 2025.11 First-Class Academic Scholarship, CUGB.
-- 2025.11 Merit Student of CUGB.
-- 2024.12 First-Class Academic Scholarship, CUGB.
-- 2024.12 Merit Student of CUGB.
-- 2023.05 Outstanding Undergraduate Thesis, CUGB.
-- 2023.05 Second-Class Academic Scholarship, CUGB.
-- 2022.12 Silvercorp Mining Scholarship, CUGB.
-- 2022.12 Second-Class Academic Scholarship, CUGB.
-- 2022.12 Merit Student of CUGB.
-- 2022.05 Second-Class Academic Scholarship, CUGB.
-- 2021.12 **China National Scholarship** (Undergraduate, Top 0.2%)🏅.
-- 2021.12 Second-Class Academic Scholarship, CUGB.
-- 2021.05 First-Class Academic Scholarship (Top 5%), CUGB.
-- 2020.12 Silvercorp Mining Scholarship（希尔威矿业奖学金）, CUGB.
-- 2020.12 Second-Class Academic Scholarship, CUGB.
-- 2020.05 Second-Class Academic Scholarship, CUGB.
+- 2025.11  First-Class Academic Scholarship, CUGB.
+- 2025.11  Merit Student of CUGB.
+- 2024.12  First-Class Academic Scholarship, CUGB.
+- 2024.12  Merit Student of CUGB.
+- 2023.05  Outstanding Undergraduate Thesis, CUGB.
+- 2023.05  Second-Class Academic Scholarship, CUGB.
+- 2022.12  Silvercorp Mining Scholarship, CUGB.
+- 2022.12  Second-Class Academic Scholarship, CUGB.
+- 2022.12  Merit Student of CUGB.
+- 2022.05  Second-Class Academic Scholarship, CUGB.
+- 2021.12  **National Scholarship** (Undergraduate, Top 0.2%)🏅.
+- 2021.12  Second-Class Academic Scholarship, CUGB.
+- 2021.05  First-Class Academic Scholarship (Top 5%), CUGB.
+- 2020.12  Silvercorp Mining Scholarship（希尔威矿业奖学金）, CUGB.
+- 2020.12  Second-Class Academic Scholarship, CUGB.
+- 2020.05  Second-Class Academic Scholarship, CUGB.
 
 # 💼 Experiences
 

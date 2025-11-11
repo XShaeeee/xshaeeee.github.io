@@ -17,6 +17,7 @@ redirect_from:
 
 # 🎖 Honors and Awards 
 
+- 2025.11 Merit Student of CUGB.
 - 2024.12 Merit Student of CUGB.
 - 2023.06 Outstanding Undergraduate Thesis, CUGB.
 - 2022.12 Silvercorp Mining Scholarship, CUGB.
@@ -25,8 +26,8 @@ redirect_from:
 - 2021.05 First-Class Academic Scholarship (Top 5%), CUGB.
 - 2020.12 Silvercorp Mining Scholarship, CUGB.
 
-
 # 💼 Experiences
 
-
+- 2022.01 Institute of Care-life (Key Laboratory of Earthquake Warning in Sichuan Province) Chengdu,China
+  - Researched the impact of the AI+Disaster Warning emergency management system and the development of mega-disaster scenarios in urban applications on the advancement of the digital economy.
 

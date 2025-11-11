@@ -36,6 +36,6 @@ redirect_from:
 
 # 💼 Experiences
 
-- 2022.01 Institute of Care-life (Key Laboratory of Earthquake Warning in Sichuan Province) Chengdu,China
+- 2022.01   _Institute of Care-life (Key Laboratory of Earthquake Warning in Sichuan Province)_   Chengdu,China
   - Researched the impact of the AI+Disaster Warning emergency management system and the development of mega-disaster scenarios in urban applications on the advancement of the digital economy.
 

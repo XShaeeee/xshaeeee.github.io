@@ -5,6 +5,14 @@ permalink: /notes/
 author_profile: true
 ---
 
+# 🌍 Group Meeting Presentation
+### Machine Learning in Earth Sciences
+📄 [Preview or Download the slides](../files/404_组会.pdf)
+
+### Zircon oxybarometer - hygrometer
+📄 [Preview or Download the slides](../files/730_组会.pdf)
+
+
 # 📉 Probility and Statistics
 ### Leture 1:  Random Events and Probability
 📄 [Preview or Download the slides](../files/Chapter1.pdf)
@@ -20,11 +28,3 @@ author_profile: true
 
 ### Leture 8:  Final Review 2
 📄 [Preview or Download the slides](../files/FinalReview2.pdf)
-
-
-# 🌍 Group Meeting Presentation
-### Machine Learning in Earth Sciences
-📄 [Preview or Download the slides](../files/404_组会.pdf)
-
-### Zircon oxybarometer - hygrometer
-📄 [Preview or Download the slides](../files/730_组会.pdf)

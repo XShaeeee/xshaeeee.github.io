@@ -15,7 +15,7 @@ redirect_from:
 - _**2019.09-2023.06**_  Minor in Economics, National School of Development, Peking University.
 - _**2019.09-2023.06**_  B.S. in Geochemistry, School of Earth Sciences and Resources, China University of Geosciences, Beijing.
 
-# 🎖 Honors and Awards 
+# 🎖 Selected Honors and Awards 
 
 - 2025.11  First-Class Academic Scholarship, CUGB.
 - 2025.11  Merit Student of CUGB.

@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-📄 [Download my full CV in PDF](../files/CV_updated_2025_03.pdf)
+📄 [Download my full CV in PDF](../files/CV_for_Academic_in_Geology_updated_2025_11.pdf)
 
 # 🎓 Education
 

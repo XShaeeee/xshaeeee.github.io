@@ -27,7 +27,7 @@ redirect_from:
 - 2022.12  Second-Class Academic Scholarship, CUGB.
 - 2022.12  Merit Student of CUGB.
 - 2022.05  Second-Class Academic Scholarship, CUGB.
-- 2021.12  **National Scholarship** (Undergraduate, Top 0.2%)🏅.
+- **2021.12 National Scholarship (Undergraduate, Top 0.2%), MOE** 🏅.
 - 2021.12  Second-Class Academic Scholarship, CUGB.
 - 2021.05  First-Class Academic Scholarship (Top 5%), CUGB.
 - 2020.12  Silvercorp Mining Scholarship（希尔威矿业奖学金）, CUGB.

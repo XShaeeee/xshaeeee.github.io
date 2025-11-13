@@ -17,7 +17,7 @@ author_profile: true
 📄 [Preview or Download the slides](../files/HTGC_Pre.pdf)
 
 ### Geochemical Thermodynamics
-📄 [Preview or Download the slides](.../files/Slides4.pdf)
+📄 [Preview or Download the slides](.../Slides2.pdf)
 
 
 # 📉 Probility and Statistics

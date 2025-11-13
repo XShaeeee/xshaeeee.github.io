@@ -14,7 +14,7 @@ author_profile: true
 
 # ✏️ Course Presentation
 ### Geochemical Thermodynamics
-📄 [Preview or Download the slides](../files/Sun_2021_NC.pdf)
+📄 [Preview or Download the slides](.../files/Sun_2021_NC.pdf)
 
 ### High-Temperature Geochemistry and Cosmochemistry
 📄 [Preview or Download the slides](../files/HTGC_Pre.pdf)

@@ -12,6 +12,13 @@ author_profile: true
 ### Zircon oxybarometer - hygrometer
 📄 [Preview or Download the slides](../files/730_组会.pdf)
 
+# ✏️ Course Presentation
+### Geochemistry Dynamics
+📄 [Preview or Download the slides](../files/02-地球化学热力学汇报ppt-梁雪吟-2001230100.pdf)
+
+### High-Temperature Geochemistry and Cosmochemistry
+📄 [Preview or Download the slides](../files/HTGC_Pre.pdf)
+
 
 # 📉 Probility and Statistics
 ### Leture 1:  Random Events and Probability

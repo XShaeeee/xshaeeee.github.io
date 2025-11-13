@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-📄 [Download my full CV in PDF](../files/CV_Xueyin Liang.pdf)
+📄 [Download my full CV in PDF](../files/CV_Xueyin_Liang.pdf)
 
 # 🎓 Education
 
